@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.log
+
+# backend
+backend/shadowguard.db
+backend/shadowguard.db-*
+backend/.env
+
+# frontend
+frontend/.env
